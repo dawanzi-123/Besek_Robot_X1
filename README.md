@@ -189,7 +189,7 @@ Speech Recognition
     
 -   连接 Feetech 舵机与 USB 串口模块。
     
--   确保获得串口权限：`sudo usermod -a -G dialout $USER` 6。
+-   确保获得串口权限：`sudo usermod -a -G dialout $USER`。
     
 
 **2. 软件编译**
