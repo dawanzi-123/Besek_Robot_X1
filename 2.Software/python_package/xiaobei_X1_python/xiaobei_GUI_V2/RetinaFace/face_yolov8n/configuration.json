@@ -1,0 +1,6 @@
+{
+    "aigc_model": false,
+    "framework": "Pytorch",
+    "model_file_location": "face_yolov8n.pt",
+    "task": "text-to-image-synthesis"
+}
