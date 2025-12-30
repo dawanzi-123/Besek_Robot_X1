@@ -5,7 +5,7 @@
 
 这是一个基于 ROS 2 Humble 和 Python AI 生态构建的双臂人形机器人平台。
 
-视频演示：[待添加你的B站/YouTube链接]
+视频演示：[【硬核】贝塞克机器人 X1演示 - 抖音](https://www.douyin.com/user/MS4wLjABAAAALJjPB01CHBNe-ILyPQk7zOEjp2iVMOuy6y-uWWRwRGMZzpzafSwUnlrpVfqK1Zw?from_tab_name=main&modal_id=7572126951415601266)
 
 ----------
 
@@ -13,7 +13,7 @@
 
 本项目已开源所有设计文件，旨在降低双臂机器人的开发门槛：
 
--   **1.Hardware**: 未来会添加
+-   **1.Hardware**: 淘宝搜贝塞克机器人购买
     
 -   **2.Software**:
     
@@ -189,7 +189,7 @@ Speech Recognition
     
 -   连接 Feetech 舵机与 USB 串口模块。
     
--   确保获得串口权限：`sudo usermod -a -G dialout $USER`。
+-   确保获得串口权限：`sudo usermod -a -G dialout $USER` 6。
     
 
 **2. 软件编译**
