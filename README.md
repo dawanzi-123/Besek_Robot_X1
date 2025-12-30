@@ -9,6 +9,9 @@
 
 硬件获取：[淘宝硬件](https://item.taobao.com/item.htm?id=963573481713&mi_id=00000SG52yAfml-7lI-NROiuXbjteY14U2qNXjdzCW5R_Ck&spm=a21xtw.29178619.0.0)
 
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/c2b167b9-d7fa-4ccb-af13-801b3cb17824" />
+
+
 ----------
 
 ## 📂 资料说明 (Update 2025-12-30)
@@ -24,6 +27,8 @@
     -   已添加 Python AI 功能包 (YOLOv8 姿态模仿、人脸追踪、语音控制)。
         
     -   已添加 `pkg_robot_model` 仿真与数字孪生配置。
+    -   <img width="1200" height="975" alt="image" src="https://github.com/user-attachments/assets/c83f3c66-3442-4306-a570-145378c2baa8" />
+
         
 -   **3.Docs**: 已添加保姆级环境配置文档、双臂控制原理及仿真教程。
     
