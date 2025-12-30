@@ -191,7 +191,7 @@ Speech Recognition
     
 -   连接 Feetech 舵机与 USB 串口模块。
     
--   确保获得串口权限：`sudo usermod -a -G dialout $USER` 6。
+-   确保获得串口权限：`sudo usermod -a -G dialout $USER`。
     
 
 **2. 软件编译**
@@ -202,7 +202,6 @@ Bash
 cd ~/xiaobei_X1_ws
 colcon build
 source install/setup.bash
-
 ```
 
 **3. 启动数字孪生**
@@ -211,7 +210,6 @@ Bash
 
 ```
 ros2 launch pkg_robot_model display.launch.py
-
 ```
 
 更详细的教程请查阅 `3.Docs` 文件夹。
