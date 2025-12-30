@@ -14,7 +14,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c2b167b9-d7fa-4ccb-af13-801b3cb17824" width="80%" alt="Besek X1 Dual Arm Robot ROS2 Python">
   <br>
-  <em>Besek Robot X1 桌面级双臂机器人真机展示</em>
+  <em>Besek Robot X1 桌面级双臂机器人上位机</em>
 </div>
 
 ---
