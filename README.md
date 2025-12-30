@@ -6,14 +6,15 @@
 这是一个基于 ROS 2 Humble 和 Python AI 生态构建的双臂人形机器人平台。
 
 视频演示：[【硬核】贝塞克机器人 X1演示 - 抖音](https://www.douyin.com/user/MS4wLjABAAAALJjPB01CHBNe-ILyPQk7zOEjp2iVMOuy6y-uWWRwRGMZzpzafSwUnlrpVfqK1Zw?from_tab_name=main&modal_id=7572126951415601266)
+硬件获取：[淘宝硬件](https://item.taobao.com/item.htm?id=963573481713&mi_id=00000SG52yAfml-7lI-NROiuXbjteY14U2qNXjdzCW5R_Ck&spm=a21xtw.29178619.0.0)
 
 ----------
 
 ## 📂 资料说明 (Update 2025-12-30)
 
-本项目已开源所有软件部分，旨在降低双臂机器人的开发门槛：
+本项目已开源所有代码部分，旨在降低双臂机器人的开发门槛：
 
--   **1.Hardware**: 淘宝搜贝塞克机器人购买
+-   **1.Hardware**: [淘宝硬件](https://item.taobao.com/item.htm?id=963573481713&mi_id=00000SG52yAfml-7lI-NROiuXbjteY14U2qNXjdzCW5R_Ck&spm=a21xtw.29178619.0.0)
     
 -   **2.Software**:
     
