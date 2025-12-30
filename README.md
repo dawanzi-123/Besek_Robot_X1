@@ -6,6 +6,7 @@
 这是一个基于 ROS 2 Humble 和 Python AI 生态构建的双臂人形机器人平台。
 
 视频演示：[【硬核】贝塞克机器人 X1演示 - 抖音](https://www.douyin.com/user/MS4wLjABAAAALJjPB01CHBNe-ILyPQk7zOEjp2iVMOuy6y-uWWRwRGMZzpzafSwUnlrpVfqK1Zw?from_tab_name=main&modal_id=7572126951415601266)
+
 硬件获取：[淘宝硬件](https://item.taobao.com/item.htm?id=963573481713&mi_id=00000SG52yAfml-7lI-NROiuXbjteY14U2qNXjdzCW5R_Ck&spm=a21xtw.29178619.0.0)
 
 ----------
